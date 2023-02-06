@@ -1,0 +1,9 @@
+numpy
+plotly
+torch
+tensorflow
+matplotlib
+notebook
+imageio
+wandb
+scikit-image
