@@ -7,3 +7,4 @@ notebook
 imageio
 wandb
 scikit-image
+matplotlib
